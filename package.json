@@ -1,10 +1,10 @@
 {
-  "name": "openart-realtime-sdk",
+  "name": "@openart/realtime-sdk",
   "version": "1.0.3",
   "author": "OpenArt",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hui200102/realtime.git"
+    "url": "https://github.com/OpenArt-AI/realtime.git"
   },
   "main": "dist/server/index.js",
   "module": "dist/server/index.js",
